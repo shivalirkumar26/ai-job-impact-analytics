@@ -1,0 +1,11 @@
+region,country,income_group,avg_ai_exposure_score,job_count
+Asia,China,Upper middle income,0.42,18
+Asia,India,Middle income,0.37,18
+Asia,Japan,High income,0.44,18
+EU,France,High income,0.44,18
+EU,Germany,High income,0.44,18
+EU,Italy,High income,0.44,18
+EU,Netherlands,High income,0.44,18
+EU,Spain,High income,0.44,18
+North America,Canada,High income,0.45,18
+North America,United States,High income,0.46,18

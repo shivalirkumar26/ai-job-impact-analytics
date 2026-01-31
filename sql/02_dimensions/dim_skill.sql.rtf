@@ -1,0 +1,36 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2867
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 .SFNS-Regular;\f1\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;\red95\green66\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c45016\c32383\c-9996;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 -- Table: ai_job_impact.dim_skill
+\f1\fs24 \cf0 \
+\
+
+\f0\fs28 \cf2 -- DROP TABLE IF EXISTS ai_job_impact.dim_skill;
+\f1\fs24 \cf0 \
+\
+
+\f0\fs28 \cf2 CREATE TABLE IF NOT EXISTS ai_job_impact.dim_skill\
+(\
+    skill_id integer NOT NULL DEFAULT nextval('ai_job_impact.dim_skill_skill_id_seq'::regclass),\
+    skill_name text COLLATE pg_catalog."default" NOT NULL,\
+    skill_type text COLLATE pg_catalog."default",\
+    automation_resistance text COLLATE pg_catalog."default",\
+    CONSTRAINT dim_skill_pkey PRIMARY KEY (skill_id),\
+    CONSTRAINT dim_skill_automation_resistance_check CHECK (automation_resistance = ANY (ARRAY['High'::text, 'Medium'::text, 'Low'::text])),\
+    CONSTRAINT dim_skill_skill_type_check CHECK (skill_type = ANY (ARRAY['Technical'::text, 'Cognitive'::text, 'Manual'::text]))\
+)
+\f1\fs24 \cf0 \
+\
+
+\f0\fs28 \cf2 TABLESPACE pg_default;
+\f1\fs24 \cf0 \
+\
+
+\f0\fs28 \cf2 ALTER TABLE IF EXISTS ai_job_impact.dim_skill\
+    OWNER to postgres;
+\f1\fs24 \cf0 \
+}

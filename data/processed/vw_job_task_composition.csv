@@ -1,0 +1,76 @@
+job_id,job_title,skill_name,skill_type,automation_resistance,importance_weight,automation_category
+1,Data Analyst,SQL Querying,Technical,Low,3,Highly Automatable
+1,Data Analyst,Data Analysis,Technical,Medium,3,Partially Automatable
+1,Data Analyst,Statistical Analysis,Technical,Medium,2,Partially Automatable
+1,Data Analyst,Data Visualization,Technical,Medium,3,Partially Automatable
+1,Data Analyst,Critical Thinking,Cognitive,High,2,Human-Critical
+1,Data Analyst,Stakeholder Communication,Cognitive,High,2,Human-Critical
+2,Business Intelligence Analyst,SQL Querying,Technical,Low,3,Highly Automatable
+2,Business Intelligence Analyst,Data Analysis,Technical,Medium,3,Partially Automatable
+2,Business Intelligence Analyst,Data Visualization,Technical,Medium,3,Partially Automatable
+2,Business Intelligence Analyst,Critical Thinking,Cognitive,High,2,Human-Critical
+2,Business Intelligence Analyst,Stakeholder Communication,Cognitive,High,2,Human-Critical
+2,Business Intelligence Analyst,Business Strategy,Cognitive,High,2,Human-Critical
+4,Software Engineer,Process Automation,Technical,Low,3,Highly Automatable
+4,Software Engineer,AI Tool Usage,Technical,Low,3,Highly Automatable
+4,Software Engineer,Problem Solving,Cognitive,High,2,Human-Critical
+4,Software Engineer,Critical Thinking,Cognitive,High,2,Human-Critical
+4,Software Engineer,Manual Data Entry,Manual,Low,1,Highly Automatable
+13,Project Manager,Stakeholder Communication,Cognitive,High,3,Human-Critical
+13,Project Manager,Decision Making,Cognitive,High,3,Human-Critical
+13,Project Manager,Business Strategy,Cognitive,High,3,Human-Critical
+13,Project Manager,Problem Solving,Cognitive,High,2,Human-Critical
+13,Project Manager,Manual Data Entry,Manual,Low,2,Highly Automatable
+15,Consultant,Critical Thinking,Cognitive,High,3,Human-Critical
+15,Consultant,Stakeholder Communication,Cognitive,High,3,Human-Critical
+15,Consultant,Business Strategy,Cognitive,High,3,Human-Critical
+15,Consultant,Problem Solving,Cognitive,High,2,Human-Critical
+15,Consultant,Data Analysis,Technical,Medium,2,Partially Automatable
+17,Auditor,Risk Assessment,Cognitive,High,3,Human-Critical
+17,Auditor,Compliance Interpretation,Cognitive,Medium,3,Partially Automatable
+17,Auditor,Critical Thinking,Cognitive,High,2,Human-Critical
+17,Auditor,Manual Data Entry,Manual,Low,2,Highly Automatable
+17,Auditor,Data Analysis,Technical,Medium,1,Partially Automatable
+3,Data Engineer,SQL Querying,Technical,Low,5,Highly Automatable
+3,Data Engineer,Process Automation,Technical,Low,4,Highly Automatable
+3,Data Engineer,AI Tool Usage,Technical,Low,3,Highly Automatable
+3,Data Engineer,Critical Thinking,Cognitive,High,3,Human-Critical
+5,QA Analyst,Data Analysis,Technical,Medium,3,Partially Automatable
+5,QA Analyst,Critical Thinking,Cognitive,High,4,Human-Critical
+5,QA Analyst,Decision Making,Cognitive,High,3,Human-Critical
+7,HR Generalist,Decision Making,Cognitive,High,4,Human-Critical
+7,HR Generalist,Stakeholder Communication,Cognitive,High,5,Human-Critical
+7,HR Generalist,Critical Thinking,Cognitive,High,4,Human-Critical
+8,Recruiter,Stakeholder Communication,Cognitive,High,5,Human-Critical
+8,Recruiter,Decision Making,Cognitive,High,4,Human-Critical
+8,Recruiter,AI Tool Usage,Technical,Low,2,Highly Automatable
+12,Customer Support Agent,Stakeholder Communication,Cognitive,High,5,Human-Critical
+12,Customer Support Agent,Critical Thinking,Cognitive,High,3,Human-Critical
+12,Customer Support Agent,AI Tool Usage,Technical,Low,2,Highly Automatable
+9,Accountant,Data Analysis,Technical,Medium,4,Partially Automatable
+9,Accountant,Critical Thinking,Cognitive,High,4,Human-Critical
+9,Accountant,Decision Making,Cognitive,High,3,Human-Critical
+10,Financial Analyst,Data Analysis,Technical,Medium,5,Partially Automatable
+10,Financial Analyst,Statistical Analysis,Technical,Medium,4,Partially Automatable
+10,Financial Analyst,Decision Making,Cognitive,High,4,Human-Critical
+11,Marketing Analyst,Data Analysis,Technical,Medium,4,Partially Automatable
+11,Marketing Analyst,Data Visualization,Technical,Medium,3,Partially Automatable
+11,Marketing Analyst,Stakeholder Communication,Cognitive,High,4,Human-Critical
+6,Product Manager,Decision Making,Cognitive,High,5,Human-Critical
+6,Product Manager,Stakeholder Communication,Cognitive,High,5,Human-Critical
+6,Product Manager,Critical Thinking,Cognitive,High,4,Human-Critical
+16,Senior Consultant,Critical Thinking,Cognitive,High,4,Human-Critical
+16,Senior Consultant,Stakeholder Communication,Cognitive,High,4,Human-Critical
+16,Senior Consultant,Business Strategy,Cognitive,High,4,Human-Critical
+16,Senior Consultant,Problem Solving,Cognitive,High,3,Human-Critical
+16,Senior Consultant,Data Analysis,Technical,Medium,3,Partially Automatable
+14,Senior Project Manager,Stakeholder Communication,Cognitive,High,4,Human-Critical
+14,Senior Project Manager,Decision Making,Cognitive,High,4,Human-Critical
+14,Senior Project Manager,Business Strategy,Cognitive,High,4,Human-Critical
+14,Senior Project Manager,Problem Solving,Cognitive,High,3,Human-Critical
+14,Senior Project Manager,Manual Data Entry,Manual,Low,3,Highly Automatable
+18,Senior Auditor,Risk Assessment,Cognitive,High,4,Human-Critical
+18,Senior Auditor,Compliance Interpretation,Cognitive,Medium,4,Partially Automatable
+18,Senior Auditor,Critical Thinking,Cognitive,High,3,Human-Critical
+18,Senior Auditor,Manual Data Entry,Manual,Low,3,Highly Automatable
+18,Senior Auditor,Data Analysis,Technical,Medium,2,Partially Automatable
