@@ -104,28 +104,6 @@ Tools & Technologies
 
 ⸻
 
-Repository Structure
-
-ai-job-impact-analytics/
-│
-├── sql/
-│   ├── schema/
-│   ├── dimensions/
-│   ├── facts/
-│   └── views/
-│
-├── data/
-│   ├── raw/
-│   └── processed/
-│
-├── tableau/
-│   └── dashboard/
-│
-└── README.md
-
-
-⸻
-
 Why This Project Matters
 
 This project demonstrates:
