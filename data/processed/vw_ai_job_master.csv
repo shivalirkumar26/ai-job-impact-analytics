@@ -1,0 +1,181 @@
+job_id,job_title,job_family,industry,job_level,region,country,income_group,ai_impact_type,ai_risk_category,year,ai_exposure_score,automation_probability,task_automation_pct,avg_salary_usd,salary_band,is_projection
+1,Data Analyst,Data & Analytics,Technology,Mid,Asia,Japan,High income,Augmentation,Medium Risk,2024,0.55,0.600,0.45,,,f
+1,Data Analyst,Data & Analytics,Technology,Mid,Asia,China,Upper middle income,Augmentation,Medium Risk,2024,0.52,0.600,0.45,,,f
+1,Data Analyst,Data & Analytics,Technology,Mid,Asia,India,Middle income,Augmentation,Medium Risk,2024,0.47,0.600,0.45,,,f
+1,Data Analyst,Data & Analytics,Technology,Mid,North America,Canada,High income,Augmentation,Medium Risk,2024,0.57,0.600,0.45,,,f
+1,Data Analyst,Data & Analytics,Technology,Mid,North America,United States,High income,Augmentation,Medium Risk,2024,0.58,0.600,0.45,,,f
+1,Data Analyst,Data & Analytics,Technology,Mid,EU,Spain,High income,Augmentation,Medium Risk,2024,0.55,0.600,0.45,65000.00,Mid,f
+1,Data Analyst,Data & Analytics,Technology,Mid,EU,Italy,High income,Augmentation,Medium Risk,2024,0.55,0.600,0.45,65000.00,Mid,f
+1,Data Analyst,Data & Analytics,Technology,Mid,EU,Netherlands,High income,Augmentation,Medium Risk,2024,0.55,0.600,0.45,65000.00,Mid,f
+1,Data Analyst,Data & Analytics,Technology,Mid,EU,France,High income,Augmentation,Medium Risk,2024,0.55,0.600,0.45,65000.00,Mid,f
+1,Data Analyst,Data & Analytics,Technology,Mid,EU,Germany,High income,Augmentation,Medium Risk,2024,0.55,0.600,0.45,65000.00,Mid,f
+2,Business Intelligence Analyst,Data & Analytics,Technology,Mid,Asia,Japan,High income,Augmentation,Medium Risk,2024,0.55,0.600,0.50,,,f
+2,Business Intelligence Analyst,Data & Analytics,Technology,Mid,Asia,China,Upper middle income,Augmentation,Medium Risk,2024,0.52,0.600,0.50,,,f
+2,Business Intelligence Analyst,Data & Analytics,Technology,Mid,Asia,India,Middle income,Augmentation,Medium Risk,2024,0.47,0.600,0.50,,,f
+2,Business Intelligence Analyst,Data & Analytics,Technology,Mid,North America,Canada,High income,Augmentation,Medium Risk,2024,0.57,0.600,0.50,,,f
+2,Business Intelligence Analyst,Data & Analytics,Technology,Mid,North America,United States,High income,Augmentation,Medium Risk,2024,0.58,0.600,0.50,,,f
+2,Business Intelligence Analyst,Data & Analytics,Technology,Mid,EU,Spain,High income,Augmentation,Medium Risk,2024,0.55,0.600,0.50,72000.00,Mid,f
+2,Business Intelligence Analyst,Data & Analytics,Technology,Mid,EU,Italy,High income,Augmentation,Medium Risk,2024,0.55,0.600,0.50,72000.00,Mid,f
+2,Business Intelligence Analyst,Data & Analytics,Technology,Mid,EU,Netherlands,High income,Augmentation,Medium Risk,2024,0.55,0.600,0.50,72000.00,Mid,f
+2,Business Intelligence Analyst,Data & Analytics,Technology,Mid,EU,France,High income,Augmentation,Medium Risk,2024,0.55,0.600,0.50,72000.00,Mid,f
+2,Business Intelligence Analyst,Data & Analytics,Technology,Mid,EU,Germany,High income,Augmentation,Medium Risk,2024,0.55,0.600,0.50,72000.00,Mid,f
+10,Financial Analyst,Finance,Corporate,Senior,Asia,Japan,High income,Hybrid,Medium Risk,2024,0.55,0.600,0.55,,,f
+10,Financial Analyst,Finance,Corporate,Senior,Asia,China,Upper middle income,Hybrid,Medium Risk,2024,0.52,0.600,0.55,,,f
+10,Financial Analyst,Finance,Corporate,Senior,Asia,India,Middle income,Hybrid,Medium Risk,2024,0.47,0.600,0.55,,,f
+10,Financial Analyst,Finance,Corporate,Senior,North America,Canada,High income,Hybrid,Medium Risk,2024,0.57,0.600,0.55,,,f
+10,Financial Analyst,Finance,Corporate,Senior,North America,United States,High income,Hybrid,Medium Risk,2024,0.58,0.600,0.55,,,f
+10,Financial Analyst,Finance,Corporate,Senior,EU,Spain,High income,Hybrid,Medium Risk,2024,0.55,0.600,0.55,75000.00,High,f
+10,Financial Analyst,Finance,Corporate,Senior,EU,Italy,High income,Hybrid,Medium Risk,2024,0.55,0.600,0.55,75000.00,High,f
+10,Financial Analyst,Finance,Corporate,Senior,EU,Netherlands,High income,Hybrid,Medium Risk,2024,0.55,0.600,0.55,75000.00,High,f
+10,Financial Analyst,Finance,Corporate,Senior,EU,France,High income,Hybrid,Medium Risk,2024,0.55,0.600,0.55,75000.00,High,f
+10,Financial Analyst,Finance,Corporate,Senior,EU,Germany,High income,Hybrid,Medium Risk,2024,0.55,0.600,0.55,75000.00,High,f
+11,Marketing Analyst,Marketing,Corporate,Mid,Asia,Japan,High income,Hybrid,Medium Risk,2024,0.55,0.600,0.50,,,f
+11,Marketing Analyst,Marketing,Corporate,Mid,Asia,China,Upper middle income,Hybrid,Medium Risk,2024,0.52,0.600,0.50,,,f
+11,Marketing Analyst,Marketing,Corporate,Mid,Asia,India,Middle income,Hybrid,Medium Risk,2024,0.47,0.600,0.50,,,f
+11,Marketing Analyst,Marketing,Corporate,Mid,North America,Canada,High income,Hybrid,Medium Risk,2024,0.57,0.600,0.50,,,f
+11,Marketing Analyst,Marketing,Corporate,Mid,North America,United States,High income,Hybrid,Medium Risk,2024,0.58,0.600,0.50,,,f
+11,Marketing Analyst,Marketing,Corporate,Mid,EU,Spain,High income,Hybrid,Medium Risk,2024,0.55,0.600,0.50,68000.00,Mid,f
+11,Marketing Analyst,Marketing,Corporate,Mid,EU,Italy,High income,Hybrid,Medium Risk,2024,0.55,0.600,0.50,68000.00,Mid,f
+11,Marketing Analyst,Marketing,Corporate,Mid,EU,Netherlands,High income,Hybrid,Medium Risk,2024,0.55,0.600,0.50,68000.00,Mid,f
+11,Marketing Analyst,Marketing,Corporate,Mid,EU,France,High income,Hybrid,Medium Risk,2024,0.55,0.600,0.50,68000.00,Mid,f
+11,Marketing Analyst,Marketing,Corporate,Mid,EU,Germany,High income,Hybrid,Medium Risk,2024,0.55,0.600,0.50,68000.00,Mid,f
+3,Data Engineer,Data & Analytics,Technology,Senior,Asia,Japan,High income,Augmentation,High Risk,2024,0.30,0.350,0.30,,,f
+3,Data Engineer,Data & Analytics,Technology,Senior,Asia,China,Upper middle income,Augmentation,High Risk,2024,0.29,0.350,0.30,,,f
+3,Data Engineer,Data & Analytics,Technology,Senior,Asia,India,Middle income,Augmentation,High Risk,2024,0.26,0.350,0.30,,,f
+3,Data Engineer,Data & Analytics,Technology,Senior,North America,Canada,High income,Augmentation,High Risk,2024,0.31,0.350,0.30,,,f
+3,Data Engineer,Data & Analytics,Technology,Senior,North America,United States,High income,Augmentation,High Risk,2024,0.32,0.350,0.30,,,f
+3,Data Engineer,Data & Analytics,Technology,Senior,EU,Spain,High income,Augmentation,High Risk,2024,0.30,0.350,0.30,90000.00,High,f
+3,Data Engineer,Data & Analytics,Technology,Senior,EU,Italy,High income,Augmentation,High Risk,2024,0.30,0.350,0.30,90000.00,High,f
+3,Data Engineer,Data & Analytics,Technology,Senior,EU,Netherlands,High income,Augmentation,High Risk,2024,0.30,0.350,0.30,90000.00,High,f
+3,Data Engineer,Data & Analytics,Technology,Senior,EU,France,High income,Augmentation,High Risk,2024,0.30,0.350,0.30,90000.00,High,f
+3,Data Engineer,Data & Analytics,Technology,Senior,EU,Germany,High income,Augmentation,High Risk,2024,0.30,0.350,0.30,90000.00,High,f
+4,Software Engineer,Engineering,Technology,Mid,Asia,Japan,High income,Augmentation,High Risk,2024,0.30,0.350,0.30,,,f
+4,Software Engineer,Engineering,Technology,Mid,Asia,China,Upper middle income,Augmentation,High Risk,2024,0.29,0.350,0.30,,,f
+4,Software Engineer,Engineering,Technology,Mid,Asia,India,Middle income,Augmentation,High Risk,2024,0.26,0.350,0.30,,,f
+4,Software Engineer,Engineering,Technology,Mid,North America,Canada,High income,Augmentation,High Risk,2024,0.31,0.350,0.30,,,f
+4,Software Engineer,Engineering,Technology,Mid,North America,United States,High income,Augmentation,High Risk,2024,0.32,0.350,0.30,,,f
+4,Software Engineer,Engineering,Technology,Mid,EU,Spain,High income,Augmentation,High Risk,2024,0.30,0.350,0.30,95000.00,Mid,f
+4,Software Engineer,Engineering,Technology,Mid,EU,Italy,High income,Augmentation,High Risk,2024,0.30,0.350,0.30,95000.00,Mid,f
+4,Software Engineer,Engineering,Technology,Mid,EU,Netherlands,High income,Augmentation,High Risk,2024,0.30,0.350,0.30,95000.00,Mid,f
+4,Software Engineer,Engineering,Technology,Mid,EU,France,High income,Augmentation,High Risk,2024,0.30,0.350,0.30,95000.00,Mid,f
+4,Software Engineer,Engineering,Technology,Mid,EU,Germany,High income,Augmentation,High Risk,2024,0.30,0.350,0.30,95000.00,Mid,f
+5,QA Analyst,Engineering,Technology,Entry,Asia,Japan,High income,Augmentation,Low Risk,2024,0.30,0.350,0.25,,,f
+5,QA Analyst,Engineering,Technology,Entry,Asia,China,Upper middle income,Augmentation,Low Risk,2024,0.29,0.350,0.25,,,f
+5,QA Analyst,Engineering,Technology,Entry,Asia,India,Middle income,Augmentation,Low Risk,2024,0.26,0.350,0.25,,,f
+5,QA Analyst,Engineering,Technology,Entry,North America,Canada,High income,Augmentation,Low Risk,2024,0.31,0.350,0.25,,,f
+5,QA Analyst,Engineering,Technology,Entry,North America,United States,High income,Augmentation,Low Risk,2024,0.32,0.350,0.25,,,f
+5,QA Analyst,Engineering,Technology,Entry,EU,Spain,High income,Augmentation,Low Risk,2024,0.30,0.350,0.25,60000.00,Low,f
+5,QA Analyst,Engineering,Technology,Entry,EU,Italy,High income,Augmentation,Low Risk,2024,0.30,0.350,0.25,60000.00,Low,f
+5,QA Analyst,Engineering,Technology,Entry,EU,Netherlands,High income,Augmentation,Low Risk,2024,0.30,0.350,0.25,60000.00,Low,f
+5,QA Analyst,Engineering,Technology,Entry,EU,France,High income,Augmentation,Low Risk,2024,0.30,0.350,0.25,60000.00,Low,f
+5,QA Analyst,Engineering,Technology,Entry,EU,Germany,High income,Augmentation,Low Risk,2024,0.30,0.350,0.25,60000.00,Low,f
+6,Product Manager,Product,Technology,Senior,Asia,Japan,High income,Augmentation,Low Risk,2024,0.30,0.350,0.25,,,f
+6,Product Manager,Product,Technology,Senior,Asia,China,Upper middle income,Augmentation,Low Risk,2024,0.29,0.350,0.25,,,f
+6,Product Manager,Product,Technology,Senior,Asia,India,Middle income,Augmentation,Low Risk,2024,0.26,0.350,0.25,,,f
+6,Product Manager,Product,Technology,Senior,North America,Canada,High income,Augmentation,Low Risk,2024,0.31,0.350,0.25,,,f
+6,Product Manager,Product,Technology,Senior,North America,United States,High income,Augmentation,Low Risk,2024,0.32,0.350,0.25,,,f
+6,Product Manager,Product,Technology,Senior,EU,Spain,High income,Augmentation,Low Risk,2024,0.30,0.350,0.25,105000.00,High,f
+6,Product Manager,Product,Technology,Senior,EU,Italy,High income,Augmentation,Low Risk,2024,0.30,0.350,0.25,105000.00,High,f
+6,Product Manager,Product,Technology,Senior,EU,Netherlands,High income,Augmentation,Low Risk,2024,0.30,0.350,0.25,105000.00,High,f
+6,Product Manager,Product,Technology,Senior,EU,France,High income,Augmentation,Low Risk,2024,0.30,0.350,0.25,105000.00,High,f
+6,Product Manager,Product,Technology,Senior,EU,Germany,High income,Augmentation,Low Risk,2024,0.30,0.350,0.25,105000.00,High,f
+13,Project Manager,Project Management,Technology,Mid,Asia,Japan,High income,Augmentation,Medium Risk,2024,0.30,0.350,0.25,,,f
+13,Project Manager,Project Management,Technology,Mid,Asia,China,Upper middle income,Augmentation,Medium Risk,2024,0.29,0.350,0.25,,,f
+13,Project Manager,Project Management,Technology,Mid,Asia,India,Middle income,Augmentation,Medium Risk,2024,0.26,0.350,0.25,,,f
+13,Project Manager,Project Management,Technology,Mid,North America,Canada,High income,Augmentation,Medium Risk,2024,0.31,0.350,0.25,,,f
+13,Project Manager,Project Management,Technology,Mid,North America,United States,High income,Augmentation,Medium Risk,2024,0.32,0.350,0.25,,,f
+13,Project Manager,Project Management,Technology,Mid,EU,Spain,High income,Augmentation,Medium Risk,2024,0.30,0.350,0.25,80000.00,Mid,f
+13,Project Manager,Project Management,Technology,Mid,EU,Italy,High income,Augmentation,Medium Risk,2024,0.30,0.350,0.25,80000.00,Mid,f
+13,Project Manager,Project Management,Technology,Mid,EU,Netherlands,High income,Augmentation,Medium Risk,2024,0.30,0.350,0.25,80000.00,Mid,f
+13,Project Manager,Project Management,Technology,Mid,EU,France,High income,Augmentation,Medium Risk,2024,0.30,0.350,0.25,80000.00,Mid,f
+13,Project Manager,Project Management,Technology,Mid,EU,Germany,High income,Augmentation,Medium Risk,2024,0.30,0.350,0.25,80000.00,Mid,f
+14,Senior Project Manager,Project Management,Technology,Senior,Asia,Japan,High income,Augmentation,Medium Risk,2024,0.30,0.350,0.20,,,f
+14,Senior Project Manager,Project Management,Technology,Senior,Asia,China,Upper middle income,Augmentation,Medium Risk,2024,0.29,0.350,0.20,,,f
+14,Senior Project Manager,Project Management,Technology,Senior,Asia,India,Middle income,Augmentation,Medium Risk,2024,0.26,0.350,0.20,,,f
+14,Senior Project Manager,Project Management,Technology,Senior,North America,Canada,High income,Augmentation,Medium Risk,2024,0.31,0.350,0.20,,,f
+14,Senior Project Manager,Project Management,Technology,Senior,North America,United States,High income,Augmentation,Medium Risk,2024,0.32,0.350,0.20,,,f
+14,Senior Project Manager,Project Management,Technology,Senior,EU,Spain,High income,Augmentation,Medium Risk,2024,0.30,0.350,0.20,98000.00,High,f
+14,Senior Project Manager,Project Management,Technology,Senior,EU,Italy,High income,Augmentation,Medium Risk,2024,0.30,0.350,0.20,98000.00,High,f
+14,Senior Project Manager,Project Management,Technology,Senior,EU,Netherlands,High income,Augmentation,Medium Risk,2024,0.30,0.350,0.20,98000.00,High,f
+14,Senior Project Manager,Project Management,Technology,Senior,EU,France,High income,Augmentation,Medium Risk,2024,0.30,0.350,0.20,98000.00,High,f
+14,Senior Project Manager,Project Management,Technology,Senior,EU,Germany,High income,Augmentation,Medium Risk,2024,0.30,0.350,0.20,98000.00,High,f
+15,Consultant,Consulting,Professional Services,Mid,Asia,Japan,High income,Hybrid,Low Risk,2024,0.55,0.600,0.55,,,f
+15,Consultant,Consulting,Professional Services,Mid,Asia,China,Upper middle income,Hybrid,Low Risk,2024,0.52,0.600,0.55,,,f
+15,Consultant,Consulting,Professional Services,Mid,Asia,India,Middle income,Hybrid,Low Risk,2024,0.47,0.600,0.55,,,f
+15,Consultant,Consulting,Professional Services,Mid,North America,Canada,High income,Hybrid,Low Risk,2024,0.57,0.600,0.55,,,f
+15,Consultant,Consulting,Professional Services,Mid,North America,United States,High income,Hybrid,Low Risk,2024,0.58,0.600,0.55,,,f
+15,Consultant,Consulting,Professional Services,Mid,EU,Spain,High income,Hybrid,Low Risk,2024,0.55,0.600,0.55,85000.00,Mid,f
+15,Consultant,Consulting,Professional Services,Mid,EU,Italy,High income,Hybrid,Low Risk,2024,0.55,0.600,0.55,85000.00,Mid,f
+15,Consultant,Consulting,Professional Services,Mid,EU,Netherlands,High income,Hybrid,Low Risk,2024,0.55,0.600,0.55,85000.00,Mid,f
+15,Consultant,Consulting,Professional Services,Mid,EU,France,High income,Hybrid,Low Risk,2024,0.55,0.600,0.55,85000.00,Mid,f
+15,Consultant,Consulting,Professional Services,Mid,EU,Germany,High income,Hybrid,Low Risk,2024,0.55,0.600,0.55,85000.00,Mid,f
+16,Senior Consultant,Consulting,Professional Services,Senior,Asia,Japan,High income,Hybrid,Low Risk,2024,0.55,0.600,0.50,,,f
+16,Senior Consultant,Consulting,Professional Services,Senior,Asia,China,Upper middle income,Hybrid,Low Risk,2024,0.52,0.600,0.50,,,f
+16,Senior Consultant,Consulting,Professional Services,Senior,Asia,India,Middle income,Hybrid,Low Risk,2024,0.47,0.600,0.50,,,f
+16,Senior Consultant,Consulting,Professional Services,Senior,North America,Canada,High income,Hybrid,Low Risk,2024,0.57,0.600,0.50,,,f
+16,Senior Consultant,Consulting,Professional Services,Senior,North America,United States,High income,Hybrid,Low Risk,2024,0.58,0.600,0.50,,,f
+16,Senior Consultant,Consulting,Professional Services,Senior,EU,Spain,High income,Hybrid,Low Risk,2024,0.55,0.600,0.50,105000.00,High,f
+16,Senior Consultant,Consulting,Professional Services,Senior,EU,Italy,High income,Hybrid,Low Risk,2024,0.55,0.600,0.50,105000.00,High,f
+16,Senior Consultant,Consulting,Professional Services,Senior,EU,Netherlands,High income,Hybrid,Low Risk,2024,0.55,0.600,0.50,105000.00,High,f
+16,Senior Consultant,Consulting,Professional Services,Senior,EU,France,High income,Hybrid,Low Risk,2024,0.55,0.600,0.50,105000.00,High,f
+16,Senior Consultant,Consulting,Professional Services,Senior,EU,Germany,High income,Hybrid,Low Risk,2024,0.55,0.600,0.50,105000.00,High,f
+9,Accountant,Finance,Corporate,Mid,Asia,Japan,High income,Augmentation,Medium Risk,2024,0.30,0.350,0.30,,,f
+9,Accountant,Finance,Corporate,Mid,Asia,China,Upper middle income,Augmentation,Medium Risk,2024,0.29,0.350,0.30,,,f
+9,Accountant,Finance,Corporate,Mid,Asia,India,Middle income,Augmentation,Medium Risk,2024,0.26,0.350,0.30,,,f
+9,Accountant,Finance,Corporate,Mid,North America,Canada,High income,Augmentation,Medium Risk,2024,0.31,0.350,0.30,,,f
+9,Accountant,Finance,Corporate,Mid,North America,United States,High income,Augmentation,Medium Risk,2024,0.32,0.350,0.30,,,f
+9,Accountant,Finance,Corporate,Mid,EU,Spain,High income,Augmentation,Medium Risk,2024,0.30,0.350,0.30,62000.00,Mid,f
+9,Accountant,Finance,Corporate,Mid,EU,Italy,High income,Augmentation,Medium Risk,2024,0.30,0.350,0.30,62000.00,Mid,f
+9,Accountant,Finance,Corporate,Mid,EU,Netherlands,High income,Augmentation,Medium Risk,2024,0.30,0.350,0.30,62000.00,Mid,f
+9,Accountant,Finance,Corporate,Mid,EU,France,High income,Augmentation,Medium Risk,2024,0.30,0.350,0.30,62000.00,Mid,f
+9,Accountant,Finance,Corporate,Mid,EU,Germany,High income,Augmentation,Medium Risk,2024,0.30,0.350,0.30,62000.00,Mid,f
+17,Auditor,Audit & Compliance,Corporate,Mid,Asia,Japan,High income,Augmentation,Medium Risk,2024,0.30,0.350,0.20,,,f
+17,Auditor,Audit & Compliance,Corporate,Mid,Asia,China,Upper middle income,Augmentation,Medium Risk,2024,0.29,0.350,0.20,,,f
+17,Auditor,Audit & Compliance,Corporate,Mid,Asia,India,Middle income,Augmentation,Medium Risk,2024,0.26,0.350,0.20,,,f
+17,Auditor,Audit & Compliance,Corporate,Mid,North America,Canada,High income,Augmentation,Medium Risk,2024,0.31,0.350,0.20,,,f
+17,Auditor,Audit & Compliance,Corporate,Mid,North America,United States,High income,Augmentation,Medium Risk,2024,0.32,0.350,0.20,,,f
+17,Auditor,Audit & Compliance,Corporate,Mid,EU,Spain,High income,Augmentation,Medium Risk,2024,0.30,0.350,0.20,70000.00,Mid,f
+17,Auditor,Audit & Compliance,Corporate,Mid,EU,Italy,High income,Augmentation,Medium Risk,2024,0.30,0.350,0.20,70000.00,Mid,f
+17,Auditor,Audit & Compliance,Corporate,Mid,EU,Netherlands,High income,Augmentation,Medium Risk,2024,0.30,0.350,0.20,70000.00,Mid,f
+17,Auditor,Audit & Compliance,Corporate,Mid,EU,France,High income,Augmentation,Medium Risk,2024,0.30,0.350,0.20,70000.00,Mid,f
+17,Auditor,Audit & Compliance,Corporate,Mid,EU,Germany,High income,Augmentation,Medium Risk,2024,0.30,0.350,0.20,70000.00,Mid,f
+18,Senior Auditor,Audit & Compliance,Corporate,Senior,Asia,Japan,High income,Augmentation,Medium Risk,2024,0.30,0.350,0.20,,,f
+18,Senior Auditor,Audit & Compliance,Corporate,Senior,Asia,China,Upper middle income,Augmentation,Medium Risk,2024,0.29,0.350,0.20,,,f
+18,Senior Auditor,Audit & Compliance,Corporate,Senior,Asia,India,Middle income,Augmentation,Medium Risk,2024,0.26,0.350,0.20,,,f
+18,Senior Auditor,Audit & Compliance,Corporate,Senior,North America,Canada,High income,Augmentation,Medium Risk,2024,0.31,0.350,0.20,,,f
+18,Senior Auditor,Audit & Compliance,Corporate,Senior,North America,United States,High income,Augmentation,Medium Risk,2024,0.32,0.350,0.20,,,f
+18,Senior Auditor,Audit & Compliance,Corporate,Senior,EU,Spain,High income,Augmentation,Medium Risk,2024,0.30,0.350,0.20,90000.00,High,f
+18,Senior Auditor,Audit & Compliance,Corporate,Senior,EU,Italy,High income,Augmentation,Medium Risk,2024,0.30,0.350,0.20,90000.00,High,f
+18,Senior Auditor,Audit & Compliance,Corporate,Senior,EU,Netherlands,High income,Augmentation,Medium Risk,2024,0.30,0.350,0.20,90000.00,High,f
+18,Senior Auditor,Audit & Compliance,Corporate,Senior,EU,France,High income,Augmentation,Medium Risk,2024,0.30,0.350,0.20,90000.00,High,f
+18,Senior Auditor,Audit & Compliance,Corporate,Senior,EU,Germany,High income,Augmentation,Medium Risk,2024,0.30,0.350,0.20,90000.00,High,f
+7,HR Generalist,Human Resources,Corporate,Mid,Asia,Japan,High income,Hybrid,Low Risk,2024,0.55,0.600,0.45,,,f
+7,HR Generalist,Human Resources,Corporate,Mid,Asia,China,Upper middle income,Hybrid,Low Risk,2024,0.52,0.600,0.45,,,f
+7,HR Generalist,Human Resources,Corporate,Mid,Asia,India,Middle income,Hybrid,Low Risk,2024,0.47,0.600,0.45,,,f
+7,HR Generalist,Human Resources,Corporate,Mid,North America,Canada,High income,Hybrid,Low Risk,2024,0.57,0.600,0.45,,,f
+7,HR Generalist,Human Resources,Corporate,Mid,North America,United States,High income,Hybrid,Low Risk,2024,0.58,0.600,0.45,,,f
+7,HR Generalist,Human Resources,Corporate,Mid,EU,Spain,High income,Hybrid,Low Risk,2024,0.55,0.600,0.45,55000.00,Mid,f
+7,HR Generalist,Human Resources,Corporate,Mid,EU,Italy,High income,Hybrid,Low Risk,2024,0.55,0.600,0.45,55000.00,Mid,f
+7,HR Generalist,Human Resources,Corporate,Mid,EU,Netherlands,High income,Hybrid,Low Risk,2024,0.55,0.600,0.45,55000.00,Mid,f
+7,HR Generalist,Human Resources,Corporate,Mid,EU,France,High income,Hybrid,Low Risk,2024,0.55,0.600,0.45,55000.00,Mid,f
+7,HR Generalist,Human Resources,Corporate,Mid,EU,Germany,High income,Hybrid,Low Risk,2024,0.55,0.600,0.45,55000.00,Mid,f
+8,Recruiter,Human Resources,Corporate,Mid,Asia,Japan,High income,Hybrid,Medium Risk,2024,0.55,0.600,0.50,,,f
+8,Recruiter,Human Resources,Corporate,Mid,Asia,China,Upper middle income,Hybrid,Medium Risk,2024,0.52,0.600,0.50,,,f
+8,Recruiter,Human Resources,Corporate,Mid,Asia,India,Middle income,Hybrid,Medium Risk,2024,0.47,0.600,0.50,,,f
+8,Recruiter,Human Resources,Corporate,Mid,North America,Canada,High income,Hybrid,Medium Risk,2024,0.57,0.600,0.50,,,f
+8,Recruiter,Human Resources,Corporate,Mid,North America,United States,High income,Hybrid,Medium Risk,2024,0.58,0.600,0.50,,,f
+8,Recruiter,Human Resources,Corporate,Mid,EU,Spain,High income,Hybrid,Medium Risk,2024,0.55,0.600,0.50,58000.00,Mid,f
+8,Recruiter,Human Resources,Corporate,Mid,EU,Italy,High income,Hybrid,Medium Risk,2024,0.55,0.600,0.50,58000.00,Mid,f
+8,Recruiter,Human Resources,Corporate,Mid,EU,Netherlands,High income,Hybrid,Medium Risk,2024,0.55,0.600,0.50,58000.00,Mid,f
+8,Recruiter,Human Resources,Corporate,Mid,EU,France,High income,Hybrid,Medium Risk,2024,0.55,0.600,0.50,58000.00,Mid,f
+8,Recruiter,Human Resources,Corporate,Mid,EU,Germany,High income,Hybrid,Medium Risk,2024,0.55,0.600,0.50,58000.00,Mid,f
+12,Customer Support Agent,Operations,Services,Entry,Asia,Japan,High income,Automation,Medium Risk,2024,0.75,0.800,0.70,,,f
+12,Customer Support Agent,Operations,Services,Entry,Asia,China,Upper middle income,Automation,Medium Risk,2024,0.71,0.800,0.70,,,f
+12,Customer Support Agent,Operations,Services,Entry,Asia,India,Middle income,Automation,Medium Risk,2024,0.64,0.800,0.70,,,f
+12,Customer Support Agent,Operations,Services,Entry,North America,Canada,High income,Automation,Medium Risk,2024,0.77,0.800,0.70,,,f
+12,Customer Support Agent,Operations,Services,Entry,North America,United States,High income,Automation,Medium Risk,2024,0.79,0.800,0.70,,,f
+12,Customer Support Agent,Operations,Services,Entry,EU,Spain,High income,Automation,Medium Risk,2024,0.75,0.800,0.70,45000.00,Low,f
+12,Customer Support Agent,Operations,Services,Entry,EU,Italy,High income,Automation,Medium Risk,2024,0.75,0.800,0.70,45000.00,Low,f
+12,Customer Support Agent,Operations,Services,Entry,EU,Netherlands,High income,Automation,Medium Risk,2024,0.75,0.800,0.70,45000.00,Low,f
+12,Customer Support Agent,Operations,Services,Entry,EU,France,High income,Automation,Medium Risk,2024,0.75,0.800,0.70,45000.00,Low,f
+12,Customer Support Agent,Operations,Services,Entry,EU,Germany,High income,Automation,Medium Risk,2024,0.75,0.800,0.70,45000.00,Low,f
