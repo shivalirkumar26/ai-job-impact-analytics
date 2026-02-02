@@ -26,6 +26,19 @@ Key Insights (Executive Summary)
 
 ⸻
 
+Data sources & assumptions
+
+This project is based on a synthetic, research-informed dataset designed to model AI exposure across job roles, skills, regions, and seniority levels.
+
+The structure and assumptions are inspired by publicly available research and frameworks, including:
+	•	OECD and World Economic Forum discussions on AI and job transformation
+	•	Task-based automation concepts (routine vs human-critical work)
+	•	Common industry role and skill taxonomies
+
+The dataset was intentionally modeled to support analytical storytelling and executive decision-making, rather than to represent a single real-world employer or labor market exactly.
+
+⸻
+
 Data Architecture & Modelling
 
 This project was built SQL-first, with analytics logic pushed as close to the data layer as possible.
